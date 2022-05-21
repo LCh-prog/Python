@@ -13,13 +13,13 @@ data = json.load(f)
 
 
 #Adding to the very begin of the "out.json" file the Json's
-#root element before recursion
+#root element before looping
 with open('out.json', 'w') as file:
     file.write('{"root": [')
 
 
 #Reading from the root element "json_data" of the "json_data.json" file
-#and building the recursion
+#and building the looping
 for i in data['json_data']:
 
 #Checking if the emails strutures are correct
