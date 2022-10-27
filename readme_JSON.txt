@@ -10,7 +10,7 @@ The assignment details, a Python Code:
 7. Save that file to local 
 
 
-
+Solution:
 1) Create 1 folder
 2) Put together the 2 files here: JSON.py, json_data.Json
 3) Double click on JSON.py
