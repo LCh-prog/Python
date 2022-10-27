@@ -1,1 +1,2 @@
-basic idea is - 
+The basic idea is - selecting a specific internal tag from an XML document, as well as working with the Elementtree, minidom libraries 
+and with the 'rt+' mode when opening the document
