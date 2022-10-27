@@ -1,2 +1,2 @@
-The basic idea is - selecting a specific internal tag from an XML document, as well as working with the Elementtree, minidom libraries 
-and with the 'rt+' mode when opening the document
+The basic idea is - selecting a specific internal tag from an XML document, as well as working with the ElementTree, minidom libraries 
+and with the 'rt+' mode (overwriting) when opening the document
